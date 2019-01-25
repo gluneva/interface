@@ -5,7 +5,6 @@ namespace app\application\core;
 use app\application\core\View;
 class Controller {
 
-    public $model;
     public $view;
 
     function __construct()
